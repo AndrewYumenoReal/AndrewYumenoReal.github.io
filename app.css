@@ -6,17 +6,7 @@ body{
     background-color :black
 }
 
-button{
-    background-color:aqua;
-    border: none;
-    position: absolute;
-    padding: 10px 25px;
-    font-size:15px;
-    font-weight: bold;
-    top: 10%;
-    left: 1%;
-}
-button2{   background-color:aqua;
+button{   background-color:aqua;
     border: none;
     position: absolute;
     padding: 10px 25px;
@@ -38,4 +28,20 @@ h2{
     right:20px;
 
 
+}
+h3{
+    color:white;
+    top: 10%;
+    left: 20px;
+}
+img{
+    top: 9%;
+    left: 17px;
+    width: 30px;
+
+}
+h4{
+    color:white;
+    top:9%;
+    left:17px;
 }
